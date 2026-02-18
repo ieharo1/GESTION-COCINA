@@ -1,29 +1,42 @@
-# CRUDSQL
+# 🗃️ CRUD SQL
 
-Proyecto Java para implementar operaciones CRUD con bases de datos SQL.
+Proyecto Java para implementar operaciones CRUD con bases de datos SQL desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Aplicación Java que realiza operaciones Create, Read, Update y Delete (CRUD) en bases de datos SQL.
 
-## Características
+---
+
+## ✨ Características
 
 - Conexión a bases de datos SQL
 - Operaciones CRUD completas
 - Manejo de excepciones
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Java SE
 - JDBC
 - MySQL/Oracle
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
