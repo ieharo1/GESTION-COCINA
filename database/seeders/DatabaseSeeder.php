@@ -3,6 +3,7 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use App\Models\User;
 use App\Models\Categoria;
 use App\Models\Ingrediente;
 use App\Models\Receta;
@@ -12,6 +13,11 @@ class DatabaseSeeder extends Seeder
 {
     public function run(): void
     {
+        User::factory()->create([
+            'name' => 'Chef',
+            'email' => 'admin@recetas.com',
+        ]);
+
         $categoria1 = Categoria::create([
             'nombre' => 'Carnes',
             'descripcion' => 'Platos principales a base de carnes'
